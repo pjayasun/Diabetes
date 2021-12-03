@@ -1,3 +1,3 @@
 # Diabetes Prediction
 
-![Alt text] Screenshot1.png
+![Screenshot1] (Screenshot1.png)
