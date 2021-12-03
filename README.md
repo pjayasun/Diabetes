@@ -18,4 +18,5 @@ I have created a web application and integrated the front end part of the projec
 ![Screenshot1](Screenshot2.png)
 
 
+User can select any of the classification algorithms listed in the LOV as follows.
 ![Screenshot1](Screenshot1.png)
