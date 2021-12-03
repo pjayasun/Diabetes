@@ -13,4 +13,9 @@ Features:
 * Age	
 * Outcome
 
+I have created a web application and integrated the front end part of the project and the model by using Flask. 
+
+![Screenshot1](Screenshot2.png)
+
+
 ![Screenshot1](Screenshot1.png)
